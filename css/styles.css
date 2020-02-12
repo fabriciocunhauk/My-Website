@@ -102,3 +102,7 @@ background: linear-gradient(to bottom, #11cdd4, #11999e);
   background: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+.copyright {
+  font-size: 10px;
+}
