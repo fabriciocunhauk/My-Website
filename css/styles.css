@@ -5,6 +5,7 @@ body {
   font-family: 'Merriweather', serif;
 
 }
+
 h1 {
   color: #0c7b93;
   font-size: 300%;
@@ -13,17 +14,20 @@ h1 {
   padding-left: 20px;
   padding-top: 20px;
 }
+
 h2 {
   color: #0c7b93;
   font-weight: normal;
   font-family: 'Montserrat', sans-serif;
 
 }
+
 h3 {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
 
 }
+
 p {
   font-size: 20px;
   padding-left: 20px;
@@ -34,15 +38,16 @@ a {
   color: #11999E;
   text-decoration: none;
 }
+
 a:hover {
   color: #eaf6f6
 }
 
 hr {
-    border: dotted silver;
-    border-bottom: none;
-    width: 10%;
-    margin: 100px auto;
+  border: dotted silver;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
 }
 
 .top-cloud {
@@ -61,17 +66,17 @@ hr {
 }
 
 .middleContainer {
-    background-color: #a0ffe6;
+  background-color: #a0ffe6;
 }
 
 .profile-foto {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .bottomContainer {
-      margin-top: 50px;
-      background-color: #42e6a4;
-      padding: 40px 0 20px;
+  margin-top: 50px;
+  background-color: #42e6a4;
+  padding: 40px 0 20px;
 }
 
 .laptop {
@@ -80,17 +85,17 @@ hr {
 
 .btn {
   color: #ffffff;
-font-size: 20px;
-padding: 8px;
--webkit-border-radius: 8px;
--moz-border-radius: 8px;
-border-radius: 8px;
-background: #11cdd4;
-background: -moz-linear-gradient(top, #11cdd4, #11999e);
-background: -webkit-linear-gradient(top, #11cdd4, #11999e);
-background: -o-linear-gradient(top, #11cdd4, #11999e);
-background: -ms-linear-gradient(top, #11cdd4, #11999e);
-background: linear-gradient(to bottom, #11cdd4, #11999e);
+  font-size: 20px;
+  padding: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background: #11cdd4;
+  background: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background: -o-linear-gradient(top, #11cdd4, #11999e);
+  background: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background: linear-gradient(to bottom, #11cdd4, #11999e);
 }
 
 .btn:hover {
