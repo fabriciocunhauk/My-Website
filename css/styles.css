@@ -73,6 +73,11 @@ hr {
   margin-top: 20px;
 }
 
+.frontend {
+  height: 303px;
+  width: 300px;
+}
+
 .bottomContainer {
   margin-top: 50px;
   background-color: #42e6a4;
